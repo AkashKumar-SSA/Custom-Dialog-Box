@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom_DialogBox</string>
+    <string name="correct">Correct Answer</string>
+    <string name="doubt">Doubt</string>
+    <string name="happy">Happy</string>
+    <string name="work">You have succesfully finished the work</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="heading">Custom Dialog Box</string>
+    <string name="dialog_btn">See custom dialog</string>
+</resources>
